@@ -13,5 +13,4 @@
 </p>
 
 - 👋 Hi, I’m @mzeand
-- 👀 I’m interested in Golang, Typescript, Kotlin, Next.js and Infrastructure as a Service (AWS, GCP..). 
-- 🌱 I’m currently learning Golang.
+- 👩‍💻 I’m interested in Golang, Typescript, Kotlin, Next.js and Infrastructure as a Service (AWS, GCP..). 
